@@ -40,6 +40,10 @@ $ sudo apt-get install git-lfs
 $ git clone *.git
 $ git lfs pull
 ```
+To use 终端推理 in https://github.com/CrazyBoyM/llama3-Chinese-chat
+```bash
+$ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple --trusted-host pypi.douban.com transformers peft dataclasses typing torch torchvision torchaudio
+```
 
 ## ML
 1. Bayesian optimization https://distill.pub/2020/bayesian-optimization/, https://leovan.me/cn/2020/06/bayesian-optimization/#%E9%AB%98%E6%96%AF%E8%BF%87%E7%A8%8B%E5%9B%9E%E5%BD%92, https://zhuanlan.zhihu.com/p/150555551
