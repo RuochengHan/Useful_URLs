@@ -34,6 +34,12 @@ $ ollama create llama-3-70b-iq2-xs -f llama-3-70b-iq2-xs.mf
 $ ollama run llama-3-70b-iq2-xs
 
 ```
+3. llama3 chinese install, need to install git-lfs first
+```bash
+$ sudo apt-get install git-lfs
+$ git clone *.git
+$ git lfs pull
+```
 
 ## ML
 1. Bayesian optimization https://distill.pub/2020/bayesian-optimization/, https://leovan.me/cn/2020/06/bayesian-optimization/#%E9%AB%98%E6%96%AF%E8%BF%87%E7%A8%8B%E5%9B%9E%E5%BD%92, https://zhuanlan.zhihu.com/p/150555551
