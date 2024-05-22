@@ -25,7 +25,21 @@ $ curl -fsSL https://ollama.com/install.sh | sh
 # import a model
 $ vim llama-3-70b-iq2-xs.mf
 # add
+
 FROM *.gguf
+TEMPLATE """
+{{- if .First }}
+### System:
+{{ .System }}
+{{- end }}
+
+### User:
+{{ .Prompt }}
+### Response:
+"""
+
+SYSTEM """"""
+
 
 $ ollama serve
 $ ollama create llama-3-70b-iq2-xs -f llama-3-70b-iq2-xs.mf
