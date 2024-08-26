@@ -6,6 +6,9 @@
 3. 物理化学性质数据库（pKa等）：https://ochem.eu/home/
 4. 分子骨架相关：https://nextmovesoftware.github.io/molhash/introduction.html
 
+## SMILES SMARTS
+1. SMARTS editor https://www.zbh.uni-hamburg.de/forschung/amd/software/smartseditor.html
+2. online SMARTS viewer https://smarts.plus/smartsview
 
 ## LLM
 1. Ollama3 ubuntu教程：https://zhuanlan.zhihu.com/p/694331045
