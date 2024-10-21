@@ -10,6 +10,9 @@
 1. SMARTS editor https://www.zbh.uni-hamburg.de/forschung/amd/software/smartseditor.html
 2. online SMARTS viewer https://smarts.plus/smartsview
 
+## Picture
+1. 去水印：https://dewatermark.ai/upload
+
 ## LLM
 1. Ollama3 ubuntu教程：https://zhuanlan.zhihu.com/p/694331045
 2. Ollama3 isntall：增加github ip 指向；使用IQ2-XS(https://www.datalearner.com/llm-blogs/llama_3_70b_benchmark_on_single_3090)
