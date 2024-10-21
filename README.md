@@ -12,6 +12,7 @@
 
 ## Picture
 1. 去水印：https://dewatermark.ai/upload
+2. 去除背景：https://remove-white-background.imageonline.co/
 
 ## LLM
 1. Ollama3 ubuntu教程：https://zhuanlan.zhihu.com/p/694331045
